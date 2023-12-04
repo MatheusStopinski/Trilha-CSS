@@ -159,6 +159,26 @@ margin-bottom: -30px;
   margin-bottom: -25px;
 }
 
+#mb {
+  margin-bottom: 50px;
+}
+
+#DIOLHO{
+  font-size: 29px;
+  font-weight: 800;
+  color: #46a5ce;
+  font-family: Raleway;
+  white-space: pre;
+  text-decoration: underline;
+  text-decoration-style: wavy;    
+  letter-spacing: 5.6px;
+  text-decoration-thickness: 7px ;  
+}
+
+#p-two {   
+  margin: 10px 0px 24px -5px;
+}
+
 footer {
   padding: 60px 0;
   text-align: center;
